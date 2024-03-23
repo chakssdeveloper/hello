@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI>
+    <Model>
+        <Element name="ClassA" type="Class"/>
+        <Element name="ClassB" type="Class"/>
+    </Model>
+</XMI>
